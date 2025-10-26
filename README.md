@@ -10,7 +10,12 @@ A SwiftUI package for rendering stunning slide decks from JSON. Create beautiful
 - **Media Support**: Images and videos from assets, bundles, or remote URLs
 - **Interactive Elements**: Clickable links within slides
 - **Modular**: Use complete presenter or build custom UI with components
-- ⌨**Keyboard Navigation**: Arrow keys and shortcuts on macOS
+- **Keyboard Navigation**: Arrow keys and shortcuts on macOS
+
+## Example
+
+<img width="1188" height="788" alt="Screenshot 2025-10-26 at 7 55 51 pm" src="https://github.com/user-attachments/assets/40c56ae2-d59c-48e9-8799-0ace5a6504bf" />
+
 
 ## Installation
 
